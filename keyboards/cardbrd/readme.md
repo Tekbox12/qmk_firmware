@@ -5,8 +5,8 @@
 A 12 key (4x3) macro pad built using ergogen v4
 
 * Keyboard Maintainer: [Tekbox12](https://github.com/Tekbox12)
-* Hardware Supported: Cardbrd pcb
-* Hardware Availability: Cardbrd pcb
+* Hardware Supported: [Cardbrd pcb](https://github.com/Tekbox12)
+* Hardware Availability:[Cardbrd pcb](https://github.com/Tekbox12)
 
 Make example for this keyboard (after setting up your build environment):
 
